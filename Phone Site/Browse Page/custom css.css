@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document for Browse Page */
+
+img {
+  filter: gray;
+  -webkit-filter: grayscale(1)
+    margin-bottom:1px;
+}
+
+img:hover {
+  filter: none;
+  -webkit-filter: grayscale(2); 
+}
+  
+.container
+{
+margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+	background-color:#333333;
+	padding-top:100px;
+}
